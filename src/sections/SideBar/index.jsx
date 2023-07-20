@@ -11,6 +11,8 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { useTranslation } from 'react-i18next';
 
+import cv from '../../assets/pdf/Mahmoud-Nwiry.pdf'
+
 const icons = [
     {
         icon : <WhatsAppIcon />,
@@ -128,7 +130,7 @@ const SideBar = () => {
                 py : 8
             }}
         >
-            <Button component='a' variant='contained' sx={{py : 3, px: 5}} href='../../assets/pdf/Mahmoud-Nwiry.pdf' download="Mahmoud-Nwiry.pdf">
+            <Button component='a' variant='contained' sx={{py : 3, px: 5}} href={cv} download="Mahmoud-Nwiry.pdf">
                 <FileDownloadOutlinedIcon fontSize='small' sx={{mx : 1}}/> {t('sidebar.cv')}
             </Button>
         </Box>

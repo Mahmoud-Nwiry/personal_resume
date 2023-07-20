@@ -1,0 +1,150 @@
+{
+    "sidebar" : {
+        "name" : "Mahmoud Nwiry",
+        "job" : "Javascript Developer",
+        "mind" : {
+            "title" : "what's in my mind",
+            "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet."
+        },
+        "cv" : "Download CV"
+    },
+    "setting" : {
+        "title" : "Setting",
+        "languages" : "Languages",
+        "theme" : "Theme",
+        "dark" : "Dark",
+        "light" : "Light",
+        "colors" : "Colors"
+    },
+    "nav" : {
+        "Home" : "Home",
+        "About" : "About",
+        "Skills" : "Skills",
+        "Education" : "Education",
+        "Experiance" : "Experiance",
+        "Projects" : "Projects",
+        "Contact" : "Contact",
+        "mini" : "Sections"
+    },
+    "home" : {
+        "hello" : "Hello.",
+        "name" : "My name is Mahmoud",
+        "addicted" : "& I'm absolutely code addicted",
+        "btn" : "View Projects"
+    },
+    "about" : {
+        "title" : "About me",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+        "personal" : {
+            "title" : "Personal Details",
+            "name" : "Full Name",
+            "nameA" : "Mahmoud Nwiry",
+            "age" : "Age",
+            "ageA" : "22 Years",
+            "address" : "Address",
+            "addressA" : "Nusirat, Gaza Strip, Palestine",
+            "zip" : "ZIP Code",
+            "zipA" : "P900",
+            "phone" : "Phone Number",
+            "phoneA" : "+970-59-739-5384",
+            "email" : "Email",
+            "emailA" : "mahmoudnwiry409@gmail.com"
+        },
+        "fildes" : {
+            "logo" : "E-commerce",
+            "web" : "Dashboard",
+            "soft" : "Portfolio",
+            "app" : "Application"
+        }
+    },
+    "skills" : {
+        "title" : "My Skills",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+        "pro" : "Professional Skills",
+        "lang" : {
+            "title" : "Languages Skills",
+            "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+            "ar" : "Arabic",
+            "en" : "English",
+            "dutch" : "Dutch"
+        }
+    },
+    "edu" : {
+        "title" : "Education",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+        "details" : {
+            "master" : "Master of degree",
+            "university" : "Al Quds Open University 2016 - 2020",
+            "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero"
+        }
+    },
+    "exp" : {
+        "title" : "Work Experiance",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+        "works" : {
+            "work1" : {
+                "title" : "WEB DESIGNER AT MICROSOFT INC.",
+                "dateS" : "November 2014",
+                "dateE" : "current",
+                "body" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti itaque sit libero quas dolorem nesciunt esse, similique eligendi dolor aperiam."
+            },
+            "work2" : {
+                "title" : "FULL-STACK AT FACEBOOK",
+                "dateS" : "Aprel 2012",
+                "dateE" : "November 2014",
+                "body" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti itaque sit libero quas dolorem nesciunt esse, similique eligendi dolor aperiam."
+            }
+        },
+        "awards" : {
+            "title" : "AWARDS WINS ",
+            "award1" : {
+                "title" : "CSS WIN",
+                "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+            },
+            "award2" : {
+                "title" : "CSS WIN",
+                "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+            },
+            "award3" : {
+                "title" : "CSS WIN",
+                "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+            }
+        }
+    },
+    "projects" : {
+        "title" : "My Projects",
+        "p" :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+        "filter" : {
+            "all" : "All Projects",
+            "front" : "Front-End",
+            "back" : "Back-End",
+            "full" : "Full-Stack"
+        }
+    },
+    "contact" : {
+        "title" : "Contact Me",
+        "p" :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem sed itaque fuga, inventore nisi dolores officiis iure unde fugiat impedit libero ipsam facilis soluta sit corporis repellendus voluptates, temporibus nesciunt nihil voluptatum, modi cupiditate sequi accusamus? Explicabo suscipit vero, consequatur quasi illum fugiat reiciendis dolor magni accusamus quas amet.",
+        "info" : {
+            "phone" : "Phone",
+            "mob" : "mob",
+            "whats" : "WhatsApp",
+            "email" : "Email",
+            "address" : "Address",
+            "addressA" : "Nusirat, Gaza Strip, Palestine",
+            "map" : "Google Maps",
+            "mapTip" : "My address on Google Maps"
+        },
+        "form" : {
+            "title" : "Hire Me",
+            "name" : "Your Name",
+            "email" : "Your Email",
+            "subject" : "Subject",
+            "any" : "Any Questions?",
+            "btn" : "Send"
+        }
+    },
+    "footer" : {
+        "copy" : "All copyright receved. 2020 - 2024 . created by ",
+        "created" : "Mahmoud Nwiry"
+    }
+}

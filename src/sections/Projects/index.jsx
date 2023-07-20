@@ -35,7 +35,7 @@ const links = [
 const Projects = () => {
 
   const [activeTab, setActiveTab] = useState(links[0].tag)
-  const [myProjects, setMyProjects] = useState(projects);
+  // const [myProjects, setMyProjects] = useState(projects);
   const {t} = useTranslation();
 
   return (
@@ -81,7 +81,7 @@ const Projects = () => {
         <Grid container columns={6} spacing={4}>
           {
             activeTab !== 'all' ?
-            myProjects.map(project => (
+            projects.map(project => (
               project.categories.includes(activeTab)
               ? (
                 <Grid item md={2}>
@@ -99,7 +99,7 @@ const Projects = () => {
           }
           {
 
-            myProjects.map(project => (
+              projects.map(project => (
                 activeTab === 'all' ?
                 <Grid item md={2}>
                   <ProjectBox 
@@ -118,7 +118,7 @@ const Projects = () => {
         </Grid>
 
         {
-          myProjects.length > 6 ? (
+          projects.length > 6 ? (
             <Box textAlign='center' mt={8}>
               <Button variant='contained' sx={{py : 3, px: 5}}>
                     <CachedOutlinedIcon fontSize='small' sx={{mx : 1}}/> Load More

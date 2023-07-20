@@ -33,7 +33,7 @@ const Languages = () => {
                     mb : 6,
                     fontSize : '.9rem',
                     color : 'text.opacity',
-                    pr : language == 'ar' ? 0 : 10,
+                    pr : language === 'ar' ? 0 : 10,
                     pl : language === 'ar' ? 10 : 0
                 }}
             >

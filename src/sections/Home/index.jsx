@@ -3,15 +3,12 @@ import TerminalIcon from '@mui/icons-material/Terminal';
 import React from 'react'
 import { NavActiveContexts } from '../../contexts/NavActiveContext';
 import { useContext } from 'react';
-import { useRef } from 'react';
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { LanguageContext } from '../../contexts/LanguageContext';
 
 const Home = () => {
 
     const {setSectionsY} = useContext(NavActiveContexts);
-    const {language} = useContext(LanguageContext)
     const {t} = useTranslation()
     
     useEffect(() => {
@@ -21,7 +18,7 @@ const Home = () => {
             setSectionsY('Home')
 
         })
-    },[])
+    },[setSectionsY])
 
   return (
     <Paper sx={{mt : 4, py : {xs : 2, md : 12}}} component='section' id="Home">

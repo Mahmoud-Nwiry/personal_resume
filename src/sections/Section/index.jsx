@@ -22,7 +22,7 @@ const Section = ({title, icon, pargraph, id, children}) => {
             }
 
         })
-    },[])
+    },[setSectionsY])
 
 
 

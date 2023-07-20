@@ -73,8 +73,4 @@ const {sectionsY} = useContext(NavActiveContexts);
   )
 }
 
-
-const NavLink = ({title}) => {
-
-}
 export default NavMneu

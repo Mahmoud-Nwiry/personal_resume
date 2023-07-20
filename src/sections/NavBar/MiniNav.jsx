@@ -32,7 +32,6 @@ const MiniNav = () => {
         className={`${scrolled ? 'active' : ''}`}
         sx={{
             p : 2,
-            position : '-webkit-sticky', 
             position : 'fixed',
             top : 0, 
             left : 0,
